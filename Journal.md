@@ -43,6 +43,31 @@ After fixing that, I made a voltage divider, since the way the op amp works is b
 
 Time spent working: 1 hour 45 minutes
 
+11:40 PM - tl;dr I spent like wayyy too long on KiCAD but stuff actually looks decent now.
+
+So it turns out that sometimes KiCAD just decides it hates you and that it doens't want to cooperate with you in the slightest. Because of this, I spent a solid hour and a half just working on footprints. I made a custom one based off of a guide for my potentiometers, and then it didn't show up. And then it didn't show up again. And again. And again. And again.
+
+<img width="944" height="1003" alt="image" src="https://github.com/user-attachments/assets/5e33e544-a3eb-42fd-9f68-51ff5501e622" />
+
+
+
+After then praying, downloading a version of KiCAD off of the Arch AUR (which I immediately stopped using because it came with NO FOOTPRINTS AT ALL), it just worked. So I could add everything into my footprints and get to PCBing for real.
+
+Laying out everything was pretty simple thankfully, and then I had to go through the wonderful maze that was routing. I ended up finishing it, as janky as it is.
+
+<img width="603" height="613" alt="image" src="https://github.com/user-attachments/assets/8573d906-609e-4fd4-bfc3-47c81d4bc6ec" />
+
+<img width="776" height="540" alt="image" src="https://github.com/user-attachments/assets/6392a1a2-2727-4127-aa7a-ecfc1af0710c" />
+
+_this is making me regret choosing ee as much as it's making me love it, but at least i get cool guitar thing :>_
+
+Time spent working: 3 hours
+
+
+
+
+
+
 
 
 
